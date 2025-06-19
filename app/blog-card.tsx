@@ -1,11 +1,11 @@
 const variables = {
-  imageSrc: "blog-card/spacejoy-unsplash.jpg",
+  imageSrc: "/blog-card/spacejoy-unsplash.jpg",
   imageAlt: "living space with vibrant colors",
   headerText: "Top 5 Living Room Inspirations",
   text: "Curated vibrants colors for your living, make it pop & calm in the same time.",
   badgeText: "Interior",
   buttonText: "Read more",
-  buttonArrowHref: "blog-card/Vector.svg",
+  buttonArrowHref: "/blog-card/Vector.svg",
 };
 
 export default function BlogCard() {
